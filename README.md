@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá, seja bem-vindo(a) ao meu GitHub!
 
-<!--
-**VitorHugoBelorio/VitorHugoBelorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Vitor Hugo e atualmente estou no **5º termo do curso de Análise e Desenvolvimento de Sistemas (ADS)** na **FATEC Presidente Prudente**.
 
-Here are some ideas to get you started:
+💻 Iniciei meus estudos em programação há aproximadamente **2 anos e meio**, e desde então venho me aprofundando cada vez mais no universo da tecnologia, com foco no desenvolvimento de sistemas, atualmente mais focado em desenvolver as minhas habilidades em C#.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que mais utilizo
+
+Tenho afinidade com as seguintes linguagens e ferramentas:
+
+- **C#**
+- **JavaScript (JS)** e **React**
+- **PHP**
+- **Python**
+- **SQL Server** e **MySQL**
+
+Além disso, possuo **conhecimentos em Machine Learning** e nas **ferramentas da AWS**, adquiridos durante meu estágio na **Compass UOL**, onde pude aplicar conceitos práticos em projetos reais do mercado, como chatbots todos criados na nuvem.
+
+## 📫 Contato
+
+- E-mail: vitorhugobsimao@gmail.com
+
+---
+
+
