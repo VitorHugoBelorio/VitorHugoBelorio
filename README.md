@@ -13,6 +13,7 @@ Tenho afinidade com as seguintes linguagens e ferramentas:
 - **PHP**
 - **Python**
 - **SQL Server** e **MySQL**
+- **Git** e **GitHub**
 
 Além disso, possuo **conhecimentos em Machine Learning** e nas **ferramentas da AWS**, adquiridos durante meu estágio na **Compass UOL**, onde pude aplicar conceitos práticos em projetos reais do mercado, como chatbots todos criados na nuvem.
 
