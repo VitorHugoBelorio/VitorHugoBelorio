@@ -2,7 +2,7 @@
 
 Meu nome é Vitor Hugo e atualmente estou no **5º termo do curso de Análise e Desenvolvimento de Sistemas (ADS)** na **FATEC Presidente Prudente**.
 
-💻 Iniciei meus estudos em programação há aproximadamente **2 anos e meio**, e desde então venho me aprofundando cada vez mais no universo da tecnologia, com foco no desenvolvimento de sistemas, atualmente mais focado em desenvolver as minhas habilidades em C#.
+💻 Iniciei meus estudos em programação há aproximadamente **2 anos e meio**, e desde então venho me aprofundando cada vez mais no universo da tecnologia, com foco no desenvolvimento de sistemas, atualmente estou desenvolvendo as minhas habilidades em C#.
 
 ## 🚀 Tecnologias que mais utilizo
 
