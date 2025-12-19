@@ -3,7 +3,7 @@
 **`Desenvolvedor de Sistemas | Back-end & Full Stack`**
 
 Me chamo **Vitor Hugo**, sou tecnólogo em **Análise e Desenvolvimento de Sistemas (ADS)** pela **FATEC Presidente Prudente**.  
-Tenho aproximadamente **2 anos e meio de experiência com programação**, período no qual venho me aprofundando no desenvolvimento de sistemas, com foco principal em **C#**, **Back-end** e **arquitetura de aplicações**.
+Tenho aproximadamente **3 anos e meio de experiência com programação**, período no qual venho me aprofundando no desenvolvimento de sistemas, com foco principal em,**Desenvolvimento Web**, **Back-end** e **arquitetura de aplicações**.
 
 Já atuei como estagiário na **Compass UOL**, onde tive contato direto com **Machine Learning**, **AWS** e desenvolvimento de **chatbots em nuvem**, aplicando conceitos em projetos reais e seguindo boas práticas de mercado.  
 Atualmente, também desenvolvo projetos acadêmicos e pessoais voltados a **sistemas financeiros, APIs, aplicações web e arquitetura limpa** todos eles com o intíto de desenvolver meus conhecimentos ou colocar em prática algo novo que aprendi.
