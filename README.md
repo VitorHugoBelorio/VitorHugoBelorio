@@ -75,7 +75,7 @@ Atualmente, também desenvolvo projetos acadêmicos e pessoais voltados a **sist
 📧 **E-mail:** vitorhugobsimao@gmail.com
 
 
-<a href="www.linkedin.com/in/vitor-hugo-belório-simão-86154a2a5" target="_blank">
+<p>
   <img
     align="left"
     alt="LinkedIn"
@@ -84,7 +84,7 @@ Atualmente, também desenvolvo projetos acadêmicos e pessoais voltados a **sist
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
   />
   LinkedIn: Vitor Hugo Belório Simão
-</a>
+</p>
 
 <br/>
 
