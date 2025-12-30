@@ -46,26 +46,6 @@ Atualmente, também desenvolvo projetos acadêmicos e pessoais voltados a **sist
 <img align="left" alt="Docker" title="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
 
 <br/>
-<br/>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<img align="left" 
-    alt="GitHub Status" 
-    height="200" 
-    style="padding-right:10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=vitorhugobelorio&show_icons=true&theme=dark&locale=pt-br"/>
-
-<img 
-    align="left" 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhugobelorio&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
-
-
 
 ---
 <br clear="both"/>
